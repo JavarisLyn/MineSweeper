@@ -2,4 +2,4 @@
 JAVA实现的扫雷小游戏
 相较于1.0版本，加入了用户系统和排行榜功能(由于云数据库到期，该功能暂不可用)
 ![image]
-https://github.com/JavarisLyn/MineSweeper/edit/master/README.md/MineSweeper/pics/1.JPG
+https://github.com/JavarisLyn/MineSweeper/blob/master/pics/1.JPG
